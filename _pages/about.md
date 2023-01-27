@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Bio.
 ======
 Hi, I'm Muyang! Currently a PhD student at the University of Sydney, where I am fortunate to be supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/). Before I embark on my PhD journay, I received my [Honours](https://en.wikipedia.org/wiki/Honours_degree) degree with First Class Honours in the same institution. Even before that, I finished my Bachelor degree at the University of Auckland, with a distinction in my undergraduate dissertation.
 
