@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Muyang Li"
 title_separator          : "-"
-name                     : &name "Muyang Li (李沐阳)"
+name                     : &name "Muyang Li"
 description              : &description "personal description"
 url                      : https://li-muyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Muyang Li"
+  name             : "Muyang Li (李沐阳)"
   avatar           : "Muyang.png"
   bio              : "PhD student @ USYD"
   location         : "J12/1 Cleveland St, Darlington"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
