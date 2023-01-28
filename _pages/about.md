@@ -16,7 +16,7 @@ Education
 ---
 * __PhD__ in Computer Science, 2023.3 - 2026.9 (expected)\
   University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
-* __BSc(Hon)__ in Computer Science with First Class Honours, 2022.3 - 2022.11\
+* __BSc(Hon)__ in Computer Science, 2022.3 - 2022.11\
   University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
 * __BSc__ in Data Science, 2018.7 - 2021.11\
   University of Auckland, supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) & Dr. [Katerina Taskova](https://profiles.auckland.ac.nz/katerina-taskova)
