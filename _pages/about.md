@@ -25,7 +25,7 @@ Education
 
 Research Interests
 ---
-My broad research interests lie within Machine Learning and Data Mining. More specifically, I'm interested in the __Trustworthiness__ of machine learning models, especially in how to build models that can maintain robustness can privacy.
+My broad research interests lie within Machine Learning and Data Mining. More specifically, I'm interested in the __Trustworthiness__ of machine learning models, especially in how to build models that can maintain robustness and is privacy-preserving.
 
 News
 ======
