@@ -30,8 +30,8 @@ My broad research interests lie within Machine Learning and Data Mining. More sp
 Publications
 =====
 <details>
-    <summary>Recommender Systems</summary>
-    MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <br /> **M. Li,** X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo
+    <summary><b>Recommender Systems</b></summary>
+    MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <br /> __M. Li,__ X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo
 </details>
 
 News
