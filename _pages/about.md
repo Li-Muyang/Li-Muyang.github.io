@@ -31,7 +31,7 @@ Publications
 =====
 <details>
     <summary><b>Recommender Systems</b></summary>
-    MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <br /> <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo
+    MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <b style="color:red">[Long Oral]<\b style="color:red"> <br /> <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo
 </details>
 
 News
