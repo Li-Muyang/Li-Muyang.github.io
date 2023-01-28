@@ -30,10 +30,10 @@ My broad research interests lie within Machine Learning and Data Mining. More sp
 Publications
 =====
 <details>
-    <summary><b>Recommender Systems</b></summary>
-    <li> 
-      MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <span style="color:blue"><b>[Long-oral]</b></span> <br /> <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo <br /> IJCAI 2022
-    </li>
+  <summary><b>Recommender Systems</b></summary>
+      <dt>MLP4Rec: A Pure MLP Architecture for Sequential Recommendations <span style="color:blue"><b>[Long-oral]</b></span></dt><br />
+      <dd><b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo <br /> IJCAI 2022
+    </dd>
 </details>
 
 News
