@@ -31,6 +31,8 @@ Publications
 =====
 <details>
     <summary>Recommender Systems</summary>
+  MLP4Rec: A Pure MLP Architecture for Sequential Recommendations\
+  __M. Li,__ X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo
 </details>
 
 News
