@@ -32,7 +32,7 @@ Publications
 <details>
   <summary><b>Recommender Systems</b></summary>
      <ul>
-      <li><p href="https://arxiv.org/abs/2204.11510">MLP4Rec: A Pure MLP Architecture for Sequential Recommendations</p><span style="color:blue"><b>[Long-oral]</b></span></li>
+      <li href="https://arxiv.org/abs/2204.11510">MLP4Rec: A Pure MLP Architecture for Sequential Recommendations<span style="color:blue"><b>[Long-oral]</b></span></li>
       <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo <br> IJCAI 2022
     </ul>
 </details>
