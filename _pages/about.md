@@ -14,14 +14,14 @@ Hi, I'm Muyang! Currently a PhD student at the University of Sydney, where I am 
 
 Education
 ---
-* __PhD__ in Computer Science, 2023.3 - 2026.9 (expected)\
-  <span style="color:red">some **[University of Sydney]** text</span>, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
+* *PhD in Computer Science*, 2023.3 - 2026.9 (expected)\
+  __University of Sydney__, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
-* __BSc(Hon)__ in Computer Science, 2022.3 - 2022.11\
-  University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
+* *BSc(Hon) in Computer Science*, 2022.3 - 2022.11\
+  __University of Sydney__, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
-* __BSc__ in Data Science, 2018.7 - 2021.11\
-  University of Auckland, supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) & Dr. [Katerina Taskova](https://profiles.auckland.ac.nz/katerina-taskova)
+* *BSc__ in Data Science*, 2018.7 - 2021.11\
+  __University of Auckland__, supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) & Dr. [Katerina Taskova](https://profiles.auckland.ac.nz/katerina-taskova)
 
 Research Interests
 ---
