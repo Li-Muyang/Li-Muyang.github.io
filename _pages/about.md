@@ -15,7 +15,7 @@ Hi, I'm Muyang! Currently a PhD student at the University of Sydney, where I am 
 Education
 ---
 * __PhD__ in Computer Science, 2023.3 - 2026.9 (expected)\
-  [University of Sydney], supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
+  <span style="color:red">some **[University of Sydney]** text</span>, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
 * __BSc(Hon)__ in Computer Science, 2022.3 - 2022.11\
   University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
