@@ -20,12 +20,18 @@ Education
 * *BSc(Hon) in Computer Science*, 2022.3 - 2022.11\
   __University of Sydney__, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
-* *BSc__ in Data Science*, 2018.7 - 2021.11\
+* *BSc in Data Science*, 2018.7 - 2021.11\
   __University of Auckland__, supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) & Dr. [Katerina Taskova](https://profiles.auckland.ac.nz/katerina-taskova)
 
 Research Interests
 ---
 My broad research interests lie within Machine Learning and Data Mining. More specifically, I'm interested in the __Trustworthiness__ of machine learning models, especially in how to build models that can maintain robustness and is privacy-preserving.
+
+Publications
+=====
+<details>
+    <summary>Recommender Systems</summary>
+</details>
 
 News
 ======
