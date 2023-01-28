@@ -15,13 +15,17 @@ Hi, I'm Muyang! Currently a PhD student at the University of Sydney, where I am 
 Education
 ---
 * __PhD__ in Computer Science, 2023.3 - 2026.9 (expected)\
-  University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
+  [University of Sydney], supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
 * __BSc(Hon)__ in Computer Science, 2022.3 - 2022.11\
   University of Sydney, supervised by Dr. [Tongliang Liu](https://tongliang-liu.github.io/)
   <br>
 * __BSc__ in Data Science, 2018.7 - 2021.11\
   University of Auckland, supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) & Dr. [Katerina Taskova](https://profiles.auckland.ac.nz/katerina-taskova)
+
+Research Interests
+---
+My broad research interests lie within Machine Learning and Data Mining. More specifically, I'm interested in the __Trustworthiness__ of machine learning models, especially in how to build models that can maintain robustness can privacy.
 
 News
 ======
