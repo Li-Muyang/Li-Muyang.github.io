@@ -45,5 +45,5 @@ News
 
 Services
 ======
-__Conference Reviewer:__ ICLR 2023, ICML 2023 \
+__Conference Reviewer:__ ICLR 2023, ICML 2023, NIPS 2023 \
 __Conference Volunteer:__ IJCAI 2022
