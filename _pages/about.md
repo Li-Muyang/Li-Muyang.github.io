@@ -39,6 +39,7 @@ Publications
 
 News
 ======
+* __Jun 1st, 2023__ I am named in the *Top Final Year High Honour Roll* by the School of Computer Science!
 * __Apr 18th, 2023__ I will serve as a reviewer for NIPS 2023!
 * __Jan 27th, 2023__  Two papers got accepted by WWW 2023. Thanks to Prof. Zhao's guidance, and congrats to [Zijian](https://zhangzj2114.github.io/) and Jiahao!
 * __Jan 24th, 2023__  I have received the *Faculty of Engineering Research Scholarship*!
