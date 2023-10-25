@@ -33,7 +33,7 @@ Publications
   <summary><b>Weakly-supervised Learning</b></summary>
      <ul>
       <li><a herf="https://openreview.net/pdf?id=GwXrGy_vc8m" style="text-decoration: none" class="button">InstanT: Semi-supervised Learning with Instance-dependent Thresholds</a></span></li>
-      <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo <br> IJCAI 2022
+      <b>M. Li,</b> R. Wu, H. Liu, J. Yu, X. Yang, B. Han, T. Liu <br> NeurIPS 2023
     </ul>
 </details>
 
