@@ -30,6 +30,14 @@ My broad research interests lie within Machine Learning and Data Mining. More sp
 Publications
 =====
 <details>
+  <summary><b>Weakly-supervised Learning</b></summary>
+     <ul>
+      <li><a herf="https://openreview.net/pdf?id=GwXrGy_vc8m" style="text-decoration: none" class="button">InstanT: Semi-supervised Learning with Instance-dependent Thresholds</a></span></li>
+      <b>M. Li,</b> X. Zhao, C. Lyu, M. Zhao, R. Wu, R. Guo <br> IJCAI 2022
+    </ul>
+</details>
+
+<details>
   <summary><b>Recommender Systems</b></summary>
      <ul>
       <li><a herf="https://openreview.net/pdf?id=GwXrGy_vc8m" style="text-decoration: none" class="button">MLP4Rec: A Pure MLP Architecture for Sequential Recommendations</a><span style="color:blue"><b>[Long-oral]</b></span></li>
