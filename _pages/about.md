@@ -47,17 +47,20 @@ Publications
 
 News
 ======
-* __Sep 22rd, 2023__ Our paper, "InstanT: Semi-supervised Learning with Instance-dependent Thresholds" has been accepted by NeurIPS 2023!
-* __Aug 27th, 2023__ I will serve as a reviewer for ICLR 2024!
-* __Jun 1st, 2023__ I will serve as a PC member for CIKM 2023!
-* __Jun 1st, 2023__ I am named in the *Dean's List for Academic Excellence* by the faculty of Engineering!
-* __Jun 1st, 2023__ I am named in the *Top Final Year High Honour Roll* by the School of Computer Science!
-* __Apr 18th, 2023__ I will serve as a reviewer for NIPS 2023!
-* __Jan 27th, 2023__  Two papers got accepted by WWW 2023. Thanks to Prof. Zhao's guidance, and congrats to [Zijian](https://zhangzj2114.github.io/) and Jiahao!
+* __Nov, 2023__ I will serve as a reviewer for ICML 2024.
+* __Nov, 2023__ I'm honored to receive *Postgraduate Research Travel Scheme* from the School of Computer Science!
+* __Nov, 2023__ I'm honored to receive *Best Poster Award in ML and AI* from the School of Computer Science!
+* __Sep, 2023__ Our paper, "InstanT: Semi-supervised Learning with Instance-dependent Thresholds" has been accepted by NeurIPS 2023!
+* __Aug, 2023__ I will serve as a reviewer for ICLR 2024.
+* __Jun, 2023__ I will serve as a PC member for CIKM 2023.
+* __Jun, 2023__ I am named in the *Dean's List for Academic Excellence* by the faculty of Engineering!
+* __Jun, 2023__ I am named in the *Top Final Year High Honour Roll* by the School of Computer Science!
+* __Apr, 2023__ I will serve as a reviewer for NIPS 2023.
+* __Jan, 2023__  Two papers got accepted by WWW 2023. Thanks to Prof. Zhao's guidance, and congrats to [Zijian](https://zhangzj2114.github.io/) and Jiahao!
 * __Jan 24th, 2023__  I have received the *Faculty of Engineering Research Scholarship*!
 * __Jan 21st, 2023__  I will serve as a reviewer for ICML 2023!
 
 Services
 ======
-__Conference Reviewer:__ ICLR 2023-2024, ICML 2023, NIPS 2023 \
+__Conference Reviewer:__ ICLR 2023-2024, ICML 2023-2024, NIPS 2023 \
 __Conference Volunteer:__ IJCAI 2022
