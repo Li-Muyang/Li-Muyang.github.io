@@ -47,6 +47,9 @@ Publications
 
 News
 ======
+* __May, 2024__ I will serve as a reviewer for NeurIPS 2024.
+* __May, 2024__ I wam honoured to be named as one of the *[Outstanding Reviewers]([https://zhangzj2114.github.io/](https://iclr.cc/Conferences/2024/Reviewers))* for ICLR 2024!
+* __May, 2024__ Our paper on the model selection of Semi-supervised Learning has been accepted by ICML 2024 !!
 * __Nov, 2023__ I will serve as a reviewer for ICML 2024.
 * __Nov, 2023__ I'm honored to receive *Postgraduate Research Travel Scheme* from the School of Computer Science!
 * __Nov, 2023__ I'm honored to receive *Best Poster Award in ML and AI* from the School of Computer Science!
@@ -62,5 +65,5 @@ News
 
 Services
 ======
-__Conference Reviewer:__ ICLR 2023-2024, ICML 2023-2024, NIPS 2023 \
+__Conference Reviewer:__ ICLR 2023-2024, ICML 2023-2024, NIPS 2023-2024 \
 __Conference Volunteer:__ IJCAI 2022
